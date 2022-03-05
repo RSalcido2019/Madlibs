@@ -7,4 +7,8 @@
 # print("my name is  {}" .format(Engineer))
 # print(f"my name is  {Engineer}")
 
+
   adj = input("Adjective: ")
+
+  madlib = f"Computer programming is do {adj}! It makes me so excited all the time because \
+   I love to {verb1}. Stay hydrated and {verb2} like you are {famous_person}!"
